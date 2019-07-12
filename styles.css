@@ -29,8 +29,13 @@
       float: right;
   }
   h1{
-      color:#979A9A;
+      color:#2f4f4f;
       display:flex;
       text-shadow: 2px 2px;
       
   }
+  #second{
+    box-shadow:0 4px 8px 0 gray, 0 6px 20px 0 gray;
+    margin:35px;
+    color:#2f4f4f;
+    font-size:130%;
