@@ -28,3 +28,9 @@
 .topnav-right{
       float: right;
   }
+  h1{
+      color:#979A9A;
+      display:flex;
+      text-shadow: 2px 2px;
+      
+  }
