@@ -45,12 +45,25 @@
      margin-left:400px;
      border-radius:100px;
   }
- 
-    
-  
-  .intro{
-    background-image: url ("");
-    background-size: cover;
-
-    }   
+  .image{
+    margin-top: 10px;
   }
+  .main{
+    display: flex;
+    justify-content: space-around;
+    background-color: #F48FB1;
+    box-shadow:0 4px 8px 0 gray, 0 6px 20px 0 gray;
+    margin:35px;
+    color:#2f4f4f;
+    font-size:130%;
+    text-align:center;
+
+    
+  }
+  footer{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  text-align: center;
+  background-color: #E91E63;
+ 
