@@ -45,6 +45,12 @@
      margin-left:400px;
      border-radius:100px;
   }
-  img{
-      background-image: url()
+ 
+    
+  
+  .intro{
+    background-image: url ("");
+    background-size: cover;
+
+    }   
   }
