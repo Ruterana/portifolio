@@ -42,14 +42,14 @@
     text-align:center;
   }
   .img1{
-     margin-left:600px;
+     margin-left:400px;
      border-radius:100px;
-
+     
   }
   .image{
     margin-top: 10px;
   }
-  .main{
+  .topnav{
     display: flex;
     justify-content: space-around;
     background-color:whitesmoke;
@@ -97,6 +97,7 @@ margin-bottom: 50%;
   #submit:hover{
 opacity:1;
   }
-  .intro>h1{
-    background-image: url("portfolio/img-folder/aleksander-vlad-jiVeo0i1EB4-unsplash.jpg");
+  #container{
+
   }
+  
