@@ -1,12 +1,12 @@
 .topnav {
     overflow: hidden;
-    background-color: rgb(189, 144, 157);
+    background-color:whitesmoke;
   }
   
   /*navigation styling*/
 .topnav a {
     float: left;
-    color: #e0e085;
+    color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -15,7 +15,7 @@
   }
   /* Change the color of links on hover */
 .topnav a:hover {
-    background-color: rgb(153, 145, 145);
+    background-color:pink;
     color: rgb(201, 179, 179);
   }
   
@@ -47,4 +47,13 @@
   }
   img{
       background-image: url()
+  }
+  #container{
+    display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  }
+  header{
+    background-image: url("/home/wecode/Desktop/portfolio/img-folder/gabriel-beaudry-5X5dCf4Pp44-unsplash.jpg");
+    background-size: cover;
   }
